@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Abhi – a passionate IT student in my final year at KITSW, exploring the world of software development, data structures, and problem-solving.<br><br>🔹 Tech Enthusiast | Developer | Problem Solver<br>🔹 Currently learning Data Analytics, AI & ML.<br>🔹 DSA (Data Structures and Algorithms)<br>🔹 Exploring AI/ML, Data Analytics and Product management
+👋 Hi, I'm Abhinay – a passionate IT student in my final year at KITSW, exploring the world of software development, data structures, and problem-solving.<br><br>🔹 Tech Enthusiast | Developer | Problem Solver<br>🔹 Currently learning Data Analytics, AI & ML.<br>🔹 DSA (Data Structures and Algorithms)<br>🔹 Exploring AI/ML, Data Analytics and Product management
 
 
 ## 🌐 Socials:
